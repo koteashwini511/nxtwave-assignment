@@ -1,0 +1,7 @@
+.list-container {
+    background-color: #cceeff;
+    padding: 20px;
+    border-radius: 8px;
+    height: 800px;
+    overflow-y: auto;
+}
